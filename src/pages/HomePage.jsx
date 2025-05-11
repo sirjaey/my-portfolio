@@ -7,7 +7,7 @@ import About from "../components/About.jsx";
 import Portfolio from "../components/Portfolio.jsx";
 import Contact from "../components/Contact.jsx";
 
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { FontAwesomeIcon } from "@fontawesome/react-fontawesome";
 import {
 	faUser,
 	faBriefcase,
