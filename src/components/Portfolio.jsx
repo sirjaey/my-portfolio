@@ -75,24 +75,6 @@ function Portfolio() {
 						<span className="skill-name">React</span>
 					</a>
 				</li>
-				{/* <li>
-					<a href="">
-						<img src="tailwind." alt="tailwind" />
-						<span className="skill-name">Tailwind</span>
-					</a>
-				</li>
-				<li>
-					<a href="">
-						<img src="" alt="bootstrap" />
-						<span className="skill-name">Bootstrap</span>
-					</a>
-				</li>
-				<li>
-					<a href="">
-						<img src="" alt="slidev" />
-						<span className="skill-name">Slidev</span>
-					</a>
-				</li> */}
 			</ul>
 		</section>
 	);

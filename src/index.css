@@ -321,12 +321,16 @@ nav ul a.active {
 			font-size: 0.5rem;
 		}
 	}
+	.skils{
+
+	}
 	.skill-name {
 		font-size: 0.5rem;
 		padding: 5px;
 		width: fit-content;
 	}
 	.skills-list {
+		padding: 20px 0;
 		grid-template-columns: repeat(auto-fit, minmax(0px, 1fr));
 		img {
 			width: 20px;
@@ -339,13 +343,13 @@ nav ul a.active {
 
 	.socials,
 	.contact {
-		font-size: 0.5rem;
-		span,
-		p {
-			font-size: 0.5rem;
+		border-radius: 5px;
+		/* font-size: 0.8rem; */
+		p, span {
+			font-size: 0.8rem;
+		}
+		span{
+			border-radius: 5px;
 		}
 	}
-}
-@media screen and (max-width: 400px) {
-	grid-template-columns: repeat(auto-fit, minmax(20px, 1fr));
 }
